@@ -2,11 +2,11 @@
 
 # Selena Cade
 - I love to sail and swim
-- I love being adventurous and trying new things
-- 
+- I am adventurous, like to try new things, and passionate about traveling 
+- I am always interested in spending time with the people I love
 
 ## Technical Background 
-I a
+I have completed three internships in Information Systems. My first internship was in Customer Experience. In my second internship, I was considered a Business Analyst. In my last internship, I was on the Manufacturing IT team. With each internship, I worked with applications such as Jira, Confluence, Power BI, and SharePoint. Outside of my internship/work experience, most of my technical experience has come from taking various undergrad and graduate level courses. I am familiar with languages such as Java, JavaScript, React, Visual Basic, HTML, CSS, PHP, and Ruby. I have never used these programming languages outside of the courses given at Grand Valley.  
 
 
 ![Screenshot of my favorite meme.](https://static.boredpanda.com/blog/wp-content/uploads/2021/04/5D4CD07A-C531-4BED-BA3C-AC291F9D2BA9-60876bfc61b19-jpeg__700.jpg)
