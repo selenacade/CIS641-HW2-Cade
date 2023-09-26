@@ -1,5 +1,3 @@
-# CIS641-HW2-Cade
-
 # Selena Cade
 - I love to sail and swim
 - I am adventurous, like to try new things, and passionate about traveling 
