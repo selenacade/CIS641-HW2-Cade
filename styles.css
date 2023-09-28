@@ -1,4 +1,4 @@
-background { color: beige;}
+background { color: rgb(243, 214, 239);}
 header h1 {text-align: center; color: #000; font-size: 3em; font-family: cursive;}
 
 .grid {display: grid; grid-template-columns: auto auto auto; grid-gap: 25px;}
@@ -9,15 +9,17 @@ table {border: 1px solid #000; border-collapse: collapse; margin: 0 auto;  width
 	
 caption {font-size: 2.5em; font-weight: bold; padding: 1.5%;}
 	
-td {padding: .8em; font-size: 1em;}
+td {padding: .8em; font-size: 1em; text-align: center;}
 	
 td, th {border: 1.5px solid #000;}
 	
-th {background-color: #000036; color: #fff; font-size: 1.15em; text-align: center;}
+th {background-color: #090942; color: #fff; font-size: 1.15em; text-align: center;}
 	
 tr {background-color: #fff;}
 	
-tr:nth-child(even) {background-color: #faf0e6; border: 1.5px solid #000;}
+tr:nth-child(even) {background-color: #a5c2f1; border: 1.5px solid #000;}
 
-main h3 { font-size: 3em;}
+main h3 { font-size: 1.5em;}
+
+main p a {font-size: .95em;}
 
