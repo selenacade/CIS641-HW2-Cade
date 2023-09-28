@@ -1,7 +1,8 @@
-background { color: rgb(243, 214, 239);}
+body {background-color: rgb(243, 214, 239);}
+
 header h1 {text-align: center; color: #000; font-size: 3em; font-family: cursive;}
 
-.grid {display: grid; grid-template-columns: auto auto auto; grid-gap: 25px;}
+article .grid {display: grid; grid-template-columns: auto auto auto; grid-gap: 25px;}
 
 article h2 {text-align: left; font-size: 1.6em; font-weight: bold;}
 
@@ -19,7 +20,7 @@ tr {background-color: #fff;}
 	
 tr:nth-child(even) {background-color: #a5c2f1; border: 1.5px solid #000;}
 
-main h3 { font-size: 1.5em;}
+main h3 { font-size: 1em;}
 
 main p a {font-size: .95em;}
 
